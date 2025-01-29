@@ -1,13 +1,13 @@
 <div id="header" align="center">
   
   <div id="badges">
-    <a href="https://discordapp.com/users/693519619658350632/">
+    <a style="text-decoration: none" href="https://discordapp.com/users/693519619658350632/">
       <img src="https://img.shields.io/badge/Discord-586aea?style=for-the-badge&logo=discord&logoColor=white" alt="Reddit Badge"/>
     </a>
-    <a href="https://t.me/macalistervadim/">
+    <a style="text-decoration: none" href="https://t.me/macalistervadim/">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
     </a>
-    <a href="https://kwork.ru/user/evgeniy_Wis">
+    <a style="text-decoration: none" href="https://kwork.ru/user/evgeniy_Wis">
       <img src="https://img.shields.io/badge/Kwork-252525?style=for-the-badge&logo=react&logoColor=white" alt="Reddit Badge"/>
     </a>
   </div>
