@@ -43,6 +43,8 @@
   <img src="https://img.shields.io/badge/TS-3d81ca?style=for-the-badge&logo=TypeScript&logoColor=white" title="TS" alt="TS" width="100" height="50"/>&nbsp;
   <img src="https://img.shields.io/badge/REDUX-7e53bc?style=for-the-badge&logo=Redux&logoColor=white" title="REDUX" alt="REDUX" width="140" height="50"/>&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" title="PostgreSQL" alt="PostgreSQL" width="180" height="50"/>&nbsp;
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" title="Next.js" alt="Next.js" width="180" height="50" />&nbsp;
+
   <p>А также множество других...</p>
 </div>
 
